@@ -38,10 +38,18 @@ A tool for Vertekal leadership to transform raw candidate resumes into polished,
 - Concise, executive-level, results-focused
 - Based ONLY on resume content (never invent)
 - Highlight: core strengths, key accomplishments, years of experience
+- **Years of experience** should reflect total professional career from earliest role (including military) — maximize without fabricating
 
-### Certifications, Education & Clearance
-- Separate sections, each item its own bullet
-- Certifications include official PNG logo links
+### Education & Certifications
+- Combined into a single section titled "Education & Certifications"
+- Certifications displayed as **badge images** (PNG logos), not text — visually appealing
+- In Word, badges are set to "bring to front" so they can be freely positioned in the document
+- Education listed as text (degree, university)
+
+### Clearance
+- Clearance is represented as a **badge image** placed in the Education & Certifications section alongside cert badges
+- Use the standard clearance badge from the Vertekal template (same badge every time)
+- No text-based clearance statements — badge only
 
 ### Professional Experience
 
@@ -57,6 +65,17 @@ A tool for Vertekal leadership to transform raw candidate resumes into polished,
 - **5+ bullets minimum**
 - Same quality/detail standards
 - All company names removed (same military exception)
+
+**Short / Low-Value Roles:**
+- When multiple roles are brief (a few months) and similar in nature, **combine them into a single role**
+- Use a broader, more descriptive job title that encompasses the combined work
+- Extend the date range to cover the full span of all combined roles
+- Goal: eliminate resume clutter while preserving relevant experience
+
+**Military Roles:**
+- **Reframe the job title** to a civilian-equivalent technical title (e.g., "Non-Commissioned Officer" → "Systems Engineer") so it resonates with civilian hiring managers and prime contractors
+- Always **explicitly name the military branch** (e.g., "U.S. Marine Corps", "United States Air Force") — military service is a strength
+- The reframed title should reflect the actual work performed (comms, systems, logistics, etc.)
 
 ### Structure Decisions (confirmed)
 - **Flat bullet structure** — no "Tools and Techniques" or "Major Accomplishments" sub-sections

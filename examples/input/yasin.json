@@ -1,0 +1,77 @@
+{
+  "name": "Yasin Guergaf",
+  "phone": "(407) 973-3732",
+  "email": "y.guergaf12@gmail.com",
+  "summary": "Dynamic and detail-oriented DevOps and Cybersecurity Engineer with over 10 years of experience across system engineering, software development, and DevOps practices. Proven track record in automating infrastructure provisioning, enhancing deployment pipelines, and implementing secure coding practices. Strong background in cybersecurity engineering, incident response automation, and cloud platform integration. Adept at bridging communication between technical teams and stakeholders and mentoring junior engineers. Holds certifications in Security+, AWS Cloud, and Scrum methodology. Former U.S. Marine with demonstrated leadership in high-stakes environments.",
+  "education": {
+    "degree": "Bachelor of Science in Cyber Security Engineering",
+    "university": "George Mason University"
+  },
+  "badges": ["csm", "ts_sci", "aws_cloud_practitioner", "security_plus"],
+  "jobs": [
+    {
+      "title": "DevOps Engineer",
+      "dates": "03/2025 \u2013 Present",
+      "company": null,
+      "bullets": [
+        "Automated infrastructure provisioning and configuration using infrastructure-as-code, increasing deployment efficiency and minimizing human error.",
+        "Developed robust CI/CD pipelines to streamline integration, testing, and deployment workflows across staging and production environments.",
+        "Led efforts to migrate legacy monolithic applications to containerized microservices using Docker and Kubernetes.",
+        "Developed and maintained Python-based automation scripts and tooling to orchestrate infrastructure provisioning, deployment validation, configuration enforcement, and health checks across cloud and containerized environments.",
+        "Integrated monitoring tools to provide real-time system health insights, reducing mean time to resolution (MTTR).",
+        "Enforced security policies and access controls across DevOps tools and environments to uphold compliance requirements.",
+        "Conducted infrastructure audits and performance testing to identify bottlenecks and recommend optimization strategies.",
+        "Supported incident response processes by deploying automated rollback and alerting mechanisms.",
+        "Leveraged tools such as Ansible and Terraform to enforce consistency across all deployment environments.",
+        "Collaborated cross-functionally with development and operations teams to align deployment strategies with business goals.",
+        "Standardized and documented all DevOps workflows to improve onboarding and knowledge transfer across teams."
+      ]
+    },
+    {
+      "title": "Sr. Software Engineer",
+      "dates": "12/2023 \u2013 03/2025",
+      "company": null,
+      "bullets": [
+        "Identified and resolved complex production issues, implementing root cause analysis, and long-term fixes.",
+        "Contributed to architectural decisions and software design sessions to align with system scalability and security requirements.",
+        "Championed secure development practices and enforced cybersecurity standards across engineering deliverables.",
+        "Administered configuration of production systems, ensuring optimized and secure performance across all environments.",
+        "Spearheaded adoption of new tools and technologies across software teams to improve system interoperability.",
+        "Integrated third-party services and APIs to enhance application functionality across secure platforms.",
+        "Mentored junior engineers, delivering code reviews, pair programming sessions, and career guidance.",
+        "Acted as technical liaison between engineering teams and stakeholders, facilitating communication and resolving pain points.",
+        "Participated in Agile ceremonies and backlog grooming, ensuring consistent delivery of prioritized business features.",
+        "Delivered technical documentation and support artifacts for continuous project knowledge sharing."
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "dates": "12/2021 \u2013 12/2023",
+      "company": null,
+      "bullets": [
+        "Developed secure and scalable web applications while implementing encryption, authentication, and authorization mechanisms to meet cybersecurity standards.",
+        "Hardened RESTful APIs against injection, spoofing, and replay attacks to reduce vulnerability exposure.",
+        "Designed and optimized complex SQL and NoSQL queries to support high-volume data operations.",
+        "Conducted in-depth code reviews with a strong focus on secure development practices aligned with OWASP Top 10.",
+        "Identified, diagnosed, and resolved complex software bugs and performance bottlenecks across multiple application layers.",
+        "Collaborated with QA and DevOps teams to integrate automated testing and deployment processes into CI/CD pipelines.",
+        "Built and documented a complete development environment setup process tailored for use within secure government networks.",
+        "Authored and maintained technical documentation, including system diagrams, API specifications, and development guidelines.",
+        "Supported integration of internal monitoring tools and metrics dashboards to track software health and usage trends.",
+        "Participated in Agile sprints, contributing to planning, estimations, and retrospectives to ensure efficient team delivery."
+      ]
+    },
+    {
+      "title": "Systems Engineer",
+      "dates": "03/2014 \u2013 03/2018",
+      "company": "U.S. Marine Corp",
+      "bullets": [
+        "Led teams in executing complex logistical and technical missions in fast-paced, high-stakes environments.",
+        "Managed company-level communications systems, ensuring reliable and secure information flow.",
+        "Oversaw physical and digital force protection strategies in line with fleet security standards.",
+        "Coordinated with multiple units to synchronize communications and operational readiness.",
+        "Maintained critical personnel, training, and equipment records in classified systems."
+      ]
+    }
+  ]
+}
